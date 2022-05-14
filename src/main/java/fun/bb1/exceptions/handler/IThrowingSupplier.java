@@ -1,4 +1,4 @@
-package com.bb1.exceptions.handler;
+package fun.bb1.exceptions.handler;
 
 /**
  * 
